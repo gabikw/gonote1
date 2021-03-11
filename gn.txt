@@ -7,7 +7,7 @@
 
 
 <body>
-<img src="C:\Users\belfer\Desktop\tnai\gonote\gonote1./background.jpg" alt="Tło" height="200"/> <div>
+<img src="C:\Users\belfer\Desktop\tnai\gonote\gonote1/background.jpg" alt="Tło" height="200"/> <div>
 
 <h1>GO Note</h1>
 
