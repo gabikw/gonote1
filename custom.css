@@ -2,7 +2,6 @@ input {
 	
 	
 	border: 1px solid grey;
-
 	padding: 3px 5px;
 	margin-bottom: 10px;
 	border-radius: 5px;
@@ -42,7 +41,7 @@ h1 {
 }
 
 
-img.main-image {
+img {
 	border-radius: 50%;
 	border: 2px solid #54C03F;
 }
