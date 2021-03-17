@@ -7,8 +7,8 @@
 
 
 <body> 
-<img src="background.jpg" alt="Tło" height="200"/>
-<div>
+<img class="main-image" src="background.jpg" alt="Tło" height="200"/>
+<div id="main-header">
 
 <h1>GO Note</h1>
 
@@ -18,7 +18,7 @@
 
 <h2>Moje notatki</h2>
 
-<p>Tutaj pojawi się lista notatek.</p> </div>
+<p1>Tutaj pojawi się lista notatek.</p1> </div>
 
 <br />
 <h2>Dodaj notatkę</h2> <form>
