@@ -1,49 +1,9 @@
-input {
-	
-	
-	border: 1px solid grey;
-	padding: 3px 5px;
-	margin-bottom: 10px;
-	border-radius: 5px;
-}
 
-body {
-	font-family: Arial;
-}
-
-h1, h2 {
-	font-variant: small-caps;
-	color: green;
-}
-
-
-#main-header {
-	background-color: #D1FAD2;
-	padding: 10px;
-}
-
-
-a {
-	color: darkgreen;
-	font-weight: bold;
-	text-decoration: none;
-}
-
-h1 {
-	
-	
-	background-color: #D1FAD2;
-	font-family: Arial;
-	border: 2px solid #54C03F;
-	padding: 10px;
-	border-radius: 5px;
-	
-}
-
-
-img {
-	border-radius: 50%;
-	border: 2px solid #54C03F;
+.cover {
+ background-image: url("background.jpg");
+ background-position: center;
+ background-size: cover;
+ min-height: 150px;
 }
 
 
